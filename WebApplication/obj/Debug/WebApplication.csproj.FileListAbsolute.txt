@@ -1,0 +1,7 @@
+C:\Development\GitHome\TC.Demo\WebApplication\bin\WebApplication.dll
+C:\Development\GitHome\TC.Demo\WebApplication\bin\WebApplication.pdb
+C:\Development\GitHome\TC.Demo\WebApplication\bin\TC.Demo.Utilities.dll
+C:\Development\GitHome\TC.Demo\WebApplication\bin\TC.Demo.Utilities.pdb
+C:\Development\GitHome\TC.Demo\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\GitHome\TC.Demo\WebApplication\obj\Debug\WebApplication.dll
+C:\Development\GitHome\TC.Demo\WebApplication\obj\Debug\WebApplication.pdb
